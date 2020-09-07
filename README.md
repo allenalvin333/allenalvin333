@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Allen](https://i.ibb.co/wLgZspn/Artboard-2.png)](https://www.lenben7.github.io)
+[![Allen](https://i.ibb.co/pj6knNf/Artboard-2.png)](https://www.lenben7.github.io)
 
 - 🔭 I’m currently working on my own website
 - 🌱 I’m currently learning Natural Language processing
