@@ -1,4 +1,4 @@
-![Allen](https://i.ibb.co/hC6Q4Yq/Artboard-1.png){:width="200"}
+![Allen](https://i.ibb.co/hC6Q4Yq/Artboard-1.png)
 
 <!--(https://www.lenben7.github.io)-->
 
