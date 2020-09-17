@@ -2,8 +2,6 @@
 
 <!--(https://www.lenben7.github.io)-->
 
-- 🔭 I’m currently working on my own website
-- 🌱 I’m currently learning Natural Language processing
 - 👯 I’m looking for collaborating on anything interesting
 - 📫 How to reach me: allenalvin333@gmail.com
 - ⚡ Fun fact: I'm an Electronics student wandering into unknown territory
