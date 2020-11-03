@@ -6,3 +6,5 @@
 - 📫 How to reach me: allenalvin333@gmail.com
 - ⚡ Fun fact: I'm an Electronics student wandering into unknown territory
 
+[![Downloads](https://img.shields.io/pypi/dm/TwitterCounter.svg)](https://crate.io/packages/TwitterCounter)
+[![Downloads](https://img.shields.io/pypi/v/TwitterCounter.svg)](https://crate.io/packages/TwitterCounter)
