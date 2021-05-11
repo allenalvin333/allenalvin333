@@ -8,6 +8,11 @@
 <br/>
 
 <h2>Languages and Tools</h2>
+
+| <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-1.webp?token=AFC43RTBZTW2OAP2OPYQSBTAUL736" alt="GCP" height="42" width=auto padding="25"/> | <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-2.webp?token=AFC43RR23SQYIE6NPXDALHDAUMEVA" alt="AWS" height="42" width=auto padding="25"/> |
+| ---- | ---- |
+| <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-3.webp?token=AFC43RWZB23YCMDFEOQHCRDAUMEVE" alt="NI" height="42" width=auto padding="5"/> | <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-4.webp?token=AFC43RUBKQPWXQKPH2R44IDAUMEVG" alt="Arduino" height="42" width=auto padding="5"/> |
+
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-1.webp?token=AFC43RTBZTW2OAP2OPYQSBTAUL736" alt="GCP" height="42" width=auto padding="25"/>  
 <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-2.webp?token=AFC43RR23SQYIE6NPXDALHDAUMEVA" alt="AWS" height="42" width=auto padding="25"/> 
