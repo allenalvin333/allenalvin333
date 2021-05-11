@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I'm an Electronics student wandering into unknown territory
 <br/>
 
-# 🛠️ Tools 
+# 💻 Tools 
 
 | <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-1.webp?token=AFC43RTBZTW2OAP2OPYQSBTAUL736" alt="gcp" height="36" width=auto/> | <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-2.webp?token=AFC43RR23SQYIE6NPXDALHDAUMEVA" alt="aws" height="36" width=auto/> | <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-3.webp?token=AFC43RWZB23YCMDFEOQHCRDAUMEVE" alt="ni" height="36" width=auto/> | <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-4.webp?token=AFC43RUBKQPWXQKPH2R44IDAUMEVG" alt="c#" height="36" width=auto/> | 
 | :----: | :----: | :----: | :----: | 
