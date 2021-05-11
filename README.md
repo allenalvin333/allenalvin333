@@ -1,12 +1,12 @@
 ![Allen](https://github.com/allenalvin333/allenalvin333/blob/master/Intro.png)
 
 # Hello ! <img src="https://github.com/allenalvin333/allenalvin333/blob/master/Wave.gif" width="30px">
-- 👯 Here's my website: https://abphilip.me/
+- 📃 Here's my website: https://abphilip.me/
 - 📫 How to reach me: allenalvin333@gmail.com
 - ⚡ Fun fact: I'm an Electronics student wandering into unknown territory
 <br/>
 
-# <img src="https://github.com/allenalvin333/allenalvin333/blob/master/Tools.gif" width="30px"> Languages and Tools 
+# 🛠️ Tools 
 
 | <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-1.webp?token=AFC43RTBZTW2OAP2OPYQSBTAUL736" alt="gcp" height="38" width=auto/> | <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-2.webp?token=AFC43RR23SQYIE6NPXDALHDAUMEVA" alt="aws" height="38" width=auto/> | <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-3.webp?token=AFC43RWZB23YCMDFEOQHCRDAUMEVE" alt="ni" height="38" width=auto/> | <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-4.webp?token=AFC43RUBKQPWXQKPH2R44IDAUMEVG" alt="c#" height="38" width=auto/> | 
 | :----: | :----: | :----: | :----: | 
@@ -15,5 +15,7 @@
 | <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-13.webp?token=AFC43RTMNMEZ7THTAWY2EKTAUMZ2E" alt="matlab" height="38" width=auto/>  | <img src="https://raw.githubusercontent.com/allenalvin333/Website1/master/lib/badges/client-14.webp?token=AFC43RWNMMYP4VW4FAZRVKLAUMZ2I" alt="docker" height="38" width=auto/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="38" width=auto/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" height="38" width=auto/> |
 <br />
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=0e75b6&style=flat" alt="allenalvin333"/></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=allenalvin333&show_icons=true&line_height=28&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Allen's GitHub Stats" /></p>
+# 📊 GitHub Stats
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=141a20&style=flat" alt="allenalvin333"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=allenalvin333&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=cccccc&icon_color=2fa4df&bg_color=141a20" alt="Allen's GitHub Stats" /></p>
