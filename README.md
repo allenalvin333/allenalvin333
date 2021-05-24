@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I'm an Electronics student wandering into unknown territory
 <br/>
 
-# 💻 Tools 
+# 💻 Stack
 
 | | | | | 
 | :----: | :----: | :----: | :----: | 
