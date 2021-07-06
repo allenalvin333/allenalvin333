@@ -6,7 +6,7 @@
 <a href = "https://www.instagram.com/allen._.philip/"><img src="https://img.shields.io/badge/Instagram-DC125D?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "https://abphilip.me/"><img src="https://img.shields.io/badge/Website-2053BA?style=for-the-badge&logo=about.me&logoColor=white"></a>
 <br/>
-#### ⚡ Fun fact: I'm an Electronics student wandering into unknown territory
+⚡ Fun fact: I'm an Electronics student wandering into unknown territory
 <br/>
 
 # 💻 Stack
