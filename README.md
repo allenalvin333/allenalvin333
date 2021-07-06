@@ -1,13 +1,13 @@
 ![Allen](Intro.png)
 
-# Hello ! <img src="Wave.gif" width="30px">
+#  <img src="Wave.gif" height="35px"> Hello ! <img src="Handshake.gif" height="35px"/> 
 <a href = "mailto:allenalvin333@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "https://www.linkedin.com/in/abphilip3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://www.instagram.com/allen._.philip/"><img src="https://img.shields.io/badge/Instagram-DC125D?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "https://abphilip.me/"><img src="https://img.shields.io/badge/Website-2053BA?style=for-the-badge&logo=about.me&logoColor=white"></a>
-<br/>
+<br/><br/>
 ⚡ Fun fact: I'm an Electronics student wandering into unknown territory
-<br/>
+<br/><br/>
 
 # 💻 Stack
 
@@ -22,7 +22,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/>
 
-# 📊 Github Stats <img src="Handshake.gif" height="40px"/>
+# 📊 Github Stats 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=12171f&style=flat" alt="allenalvin333"/></p>
 
