@@ -11,15 +11,34 @@
 
 # 💻 Stack
 
+<p>
+  <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JS" src ="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="BASH" src="https://img.shields.io/badge/BASH-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img alt="TF" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap4-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="C" src ="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
+ </p>
+
+<!--
 | | | | | 
 | :----: | :----: | :----: | :----: | 
 | <img src="Badges/1.webp" alt="gcp" height="36" width=auto/> | <img src="Badges/2.webp" alt="aws" height="36" width=auto/> | <img src="Badges/3.webp" alt="ni" height="36" width=auto/> | <img src="Badges/4.webp" alt="c#" height="36" width=auto/> |
 | <img src="Badges/5.webp" alt="html5" height="36" width=auto/>  | <img src="Badges/6.webp" alt="css3" height="36" width=auto/>  | <img src="Badges/7.webp" alt="bs4" height="36" width=auto/> | <img src="Badges/8.webp" alt="git" height="36" width=auto/>  |
 | <img src="Badges/9.webp" alt="py" height="36" width=auto/>  | <img src="Badges/10.webp" alt="jupy" height="36" width=auto/> | <img src="Badges/11.webp" alt="tf" height="36" width=auto/>  | <img src="Badges/12.webp" alt="pyt" height="36" width=auto/> |
 | <img src="Badges/13.webp" alt="matlab" height="36" width=auto/>  | <img src="Badges/14.webp" alt="docker" height="36" width=auto/> | <img src="Badges/15.webp" alt="c" height="36" width=auto/> | <img src="Badges/16.webp" alt="c++" height="36" width=auto/> | 
-<br/>
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+-->
 <br/>
 
 # 📊 Github Stats 
@@ -27,6 +46,8 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=12171f&style=flat" alt="allenalvin333"/></p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=allenalvin333&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=dddddd&icon_color=2fa4df&bg_color=12171f" alt="Allen's GitHub Stats"/> 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333" alt="Allen's GitHub Streak"/> 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 [![Activity graph](https://activity-graph.herokuapp.com/graph?username=allenalvin333&custom_title=Allen's%20Contribution%20Graph&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
