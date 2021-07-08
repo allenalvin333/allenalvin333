@@ -1,6 +1,6 @@
 ![Allen](Intro.png)
 
-#  <img src="Wave.gif" height="35px"> Hello ! <img src="Handshake.gif" height="35px"/> 
+#  Hello ! <img src="Wave.gif" width="33px"> 
 <a href = "mailto:allenalvin333@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "https://www.linkedin.com/in/abphilip3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://www.instagram.com/allen._.philip/"><img src="https://img.shields.io/badge/Instagram-DC125D?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -26,8 +26,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=12171f&style=flat" alt="allenalvin333"/></p>
 
-| |
-| :----: |
-| <img align="left" src="https://github-readme-stats.vercel.app/api?username=allenalvin333&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=dddddd&icon_color=2fa4df&bg_color=12171f" alt="Allen's GitHub Stats"/> |
-| <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333" alt="Allen's GitHub Streak"/> |
-| [![Activity graph](https://activity-graph.herokuapp.com/graph?username=allenalvin333&custom_title=Allen's%20Contribution%20Graph&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=allenalvin333&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=dddddd&icon_color=2fa4df&bg_color=12171f" alt="Allen's GitHub Stats"/> 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333" alt="Allen's GitHub Streak"/> 
+
+[![Activity graph](https://activity-graph.herokuapp.com/graph?username=allenalvin333&custom_title=Allen's%20Contribution%20Graph&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
