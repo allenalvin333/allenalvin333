@@ -33,7 +33,7 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/Node%20JS-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="CC" src="https://img.shields.io/badge/Adobe%20CC-%23DA1F26.svg?&style=for-the-badge&logo=Adobe-creative-cloud&logoColor=white"/>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
   <img alt="Scikit" src="https://img.shields.io/badge/SKLearn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img alt="NodeRED" src="https://img.shields.io/badge/NodeRed-%238F0000.svg?&style=for-the-badge&logo=node-red&logoColor=white"/>
  </p>
