@@ -25,13 +25,13 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="C" src ="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Terminal" src="https://img.shields.io/badge/Terminal-%234D4D4D.svg?&style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
   <img alt="Scikit" src="https://img.shields.io/badge/Scikit-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img alt="CC" src="https://img.shields.io/badge/Creative%20Cloud-%23DA1F26.svg?&style=for-the-badge&logo=Adobe-creative-cloud&logoColor=white"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
  </p>
 
 <!--
