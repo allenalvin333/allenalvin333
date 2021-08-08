@@ -57,4 +57,5 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=dark" alt="Allen's GitHub Streak"/> 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![Activity graph](https://activity-graph.herokuapp.com/graph?username=allenalvin333&custom_title=Allen's%20Contribution%20Graph&theme=react-dark)
+![Activity graph](https://activity-graph.herokuapp.com/graph?username=allenalvin333&custom_title=Allen's%20Contribution%20Graph&theme=react-dark&area=true&hide_border=true)
+
