@@ -54,7 +54,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=allenalvin333&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=dddddd&icon_color=2fa4df&bg_color=12171f" alt="Allen's GitHub Stats"/> 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333" alt="Allen's GitHub Streak"/> 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=dark" alt="Allen's GitHub Streak"/> 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![Activity graph](https://activity-graph.herokuapp.com/graph?username=allenalvin333&custom_title=Allen's%20Contribution%20Graph&theme=react-dark)
