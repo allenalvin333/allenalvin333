@@ -14,11 +14,10 @@
 <p>
   <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JS" src ="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
   <br/>
   <img alt="BASH" src="https://img.shields.io/badge/BASH-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img alt="TF" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -36,6 +35,12 @@
   <img alt="React" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
   <img alt="Scikit" src="https://img.shields.io/badge/SKLearn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img alt="NodeRED" src="https://img.shields.io/badge/NodeRed-%238F0000.svg?&style=for-the-badge&logo=node-red&logoColor=white"/>
+  <br/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JS" src ="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="NextJS" src="https://img.shields.io/badge/Next%20JS-%23371651.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  
  </p>
 
 <!--
