@@ -1,3 +1,7 @@
+**ATTENTION ! Arrange Repositories in alphabetical order before surfing, thank you.**
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br/><br/>
+
 ![Allen](Intro.png)
 
 #  Hello ! <img src="Wave.gif" width="33px"> 
@@ -6,7 +10,7 @@
 <a href = "https://www.instagram.com/allen._.philip/"><img src="https://img.shields.io/badge/Instagram-DC125D?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "https://abphilip.me/"><img src="https://img.shields.io/badge/Website-2053BA?style=for-the-badge&logo=about.me&logoColor=white"></a>
 <br/><br/>
-⚡ Fun fact: I'm an Electronics student wandering into unknown territory
+⚡ Fun fact: I'm an Electronics student wandering into unknown territory 
 <br/><br/>
 
 # 💻 Stack
@@ -57,8 +61,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=12171f&style=flat" alt="allenalvin333"/></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=allenalvin333&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=dddddd&icon_color=2fa4df&bg_color=12171f" alt="Allen's GitHub Stats"/> 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=dark" alt="Allen's GitHub Streak"/> 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
