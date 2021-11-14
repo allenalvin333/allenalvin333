@@ -22,7 +22,6 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
-  <br>
   <img alt="BASH" src="https://img.shields.io/badge/BASH-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img alt="TF" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23371651.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -31,7 +30,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <br>
   <img alt="Terminal" src="https://img.shields.io/badge/Powershell-%234D4D4D.svg?&style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/Node%20JS-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="CC" src="https://img.shields.io/badge/Adobe%20CC-%23DA1F26.svg?&style=for-the-badge&logo=Adobe-creative-cloud&logoColor=white"/>
@@ -39,7 +37,6 @@
   <img alt="React" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
   <img alt="Scikit" src="https://img.shields.io/badge/SKLearn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img alt="NodeRED" src="https://img.shields.io/badge/NodeRed-%238F0000.svg?&style=for-the-badge&logo=node-red&logoColor=white"/>
-  <br>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JS" src ="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>  
@@ -62,17 +59,13 @@
 <details>	
   <summary><b>🔥 GitHub Streaks</b></summary>
     <br/>
-    <div>
-      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=react&border=61dafb" />
-      </a>
-    </div>
+    <div><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=react&hide_border=true&background=0d1117"/></div>
 </details>
 <details>
   <summary><b>🎫 GitHub Contributions</b></summary>
     <br/>
-    <div>
-    <img src="https://activity-graph.herokuapp.com/graph?username=allenalvin333&custom_title=Allen's%20Contribution%20Graph&theme=react-dark&area=true" width="100%"/>
-    </div>
+    <div><img src="https://activity-graph.herokuapp.com/graph?username=allenalvin333&custom_title=Allen's%20Contribution%20Graph&theme=react-dark&area=true&hide_border=true" width="100%"/></div>
 </details>
 
+<!-- Border Colour: 61dafb
+     Background Colour: 0d1117  -->
