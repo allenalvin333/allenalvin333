@@ -6,9 +6,7 @@
 [<img alt='School' src="Logo/School.png" width="80">](https://github.com/abphilip-school/) 
 [<img alt='Work' src="Logo/Work.png" width="80">](https://github.com/abphilip-work/) 
 [<img alt='Private' src="Logo/Private.png" width="80">](https://github.com/abphilip-private/)
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br/><br/>
+<br/>
 
 ![Allen](Intro.png)
 
@@ -49,16 +47,19 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JS" src ="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>  
  </p>
+ <br/>
 
 <!--
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 | | | | | 
 | :----: | :----: | :----: | :----: | 
 | <img src="Badges/1.webp" alt="gcp" height="36" width=auto/> | <img src="Badges/2.webp" alt="aws" height="36" width=auto/> | <img src="Badges/3.webp" alt="ni" height="36" width=auto/> | <img src="Badges/4.webp" alt="c#" height="36" width=auto/> |
 | <img src="Badges/5.webp" alt="html5" height="36" width=auto/>  | <img src="Badges/6.webp" alt="css3" height="36" width=auto/>  | <img src="Badges/7.webp" alt="bs4" height="36" width=auto/> | <img src="Badges/8.webp" alt="git" height="36" width=auto/>  |
 | <img src="Badges/9.webp" alt="py" height="36" width=auto/>  | <img src="Badges/10.webp" alt="jupy" height="36" width=auto/> | <img src="Badges/11.webp" alt="tf" height="36" width=auto/>  | <img src="Badges/12.webp" alt="pyt" height="36" width=auto/> |
 | <img src="Badges/13.webp" alt="matlab" height="36" width=auto/>  | <img src="Badges/14.webp" alt="docker" height="36" width=auto/> | <img src="Badges/15.webp" alt="c" height="36" width=auto/> | <img src="Badges/16.webp" alt="c++" height="36" width=auto/> | 
+
 -->
-<br/>
 
 # 📊 Stats  
 
