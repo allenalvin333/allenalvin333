@@ -1,11 +1,11 @@
 **Grouped Repositories**
 
-[<img alt='VIT' src="Logo/VIT.png" width="70">](https://github.com/abphilip-vit/) 
-[<img alt='Coursera' src="Logo/Coursera.png" width="70">](https://github.com/abphilip-coursera/) 
-[<img alt='Competitive' src="Logo/Competitive.png" width="70">](https://github.com/abphilip-competitive/) 
-[<img alt='School' src="Logo/School.png" width="70">](https://github.com/abphilip-school/) 
-[<img alt='Work' src="Logo/Work.png" width="70">](https://github.com/abphilip-work/) 
-[<img alt='Private' src="Logo/Private.png" width="70">](https://github.com/abphilip-private/)
+[<img alt='VIT' src="Logo/VIT.png" width="80">](https://github.com/abphilip-vit/) 
+[<img alt='Coursera' src="Logo/Coursera.png" width="80">](https://github.com/abphilip-coursera/) 
+[<img alt='Competitive' src="Logo/Competitive.png" width="80">](https://github.com/abphilip-competitive/) 
+[<img alt='School' src="Logo/School.png" width="80">](https://github.com/abphilip-school/) 
+[<img alt='Work' src="Logo/Work.png" width="80">](https://github.com/abphilip-work/) 
+[<img alt='Private' src="Logo/Private.png" width="80">](https://github.com/abphilip-private/)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/><br/>
