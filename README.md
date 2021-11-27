@@ -15,8 +15,7 @@
 <a href = "https://www.linkedin.com/in/abphilip3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://www.instagram.com/allen._.philip/"><img src="https://img.shields.io/badge/Instagram-DC125D?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "https://abphilip.me/"><img src="https://img.shields.io/badge/Personal%20Website-2053BA?style=for-the-badge&logo=about.me&logoColor=white"></a>
-<br/>
-![Allen](Intro.png)
+<br/><br/>
 📌 **Fun fact**: I'm an Electronics student wandering into unknown territory 
 <br/><br/>
 
@@ -52,6 +51,7 @@
 
 <!--
 
+![Allen](Intro.png)
 | | | | | 
 | :----: | :----: | :----: | :----: | 
 | <img src="Badges/1.webp" alt="gcp" height="36" width=auto/> | <img src="Badges/2.webp" alt="aws" height="36" width=auto/> | <img src="Badges/3.webp" alt="ni" height="36" width=auto/> | <img src="Badges/4.webp" alt="c#" height="36" width=auto/> |
