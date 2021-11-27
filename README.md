@@ -6,7 +6,9 @@
 [<img alt='School' src="Logo/School.png" width="80">](https://github.com/abphilip-school/) 
 [<img alt='Work' src="Logo/Work.png" width="80">](https://github.com/abphilip-work/) 
 [<img alt='Private' src="Logo/Private.png" width="80">](https://github.com/abphilip-private/)
-<br/>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br/><br/>
 
 ![Allen](Intro.png)
 
@@ -51,7 +53,6 @@
 
 <!--
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 | | | | | 
 | :----: | :----: | :----: | :----: | 
 | <img src="Badges/1.webp" alt="gcp" height="36" width=auto/> | <img src="Badges/2.webp" alt="aws" height="36" width=auto/> | <img src="Badges/3.webp" alt="ni" height="36" width=auto/> | <img src="Badges/4.webp" alt="c#" height="36" width=auto/> |
