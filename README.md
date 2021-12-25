@@ -13,6 +13,7 @@
 <a href = "https://www.linkedin.com/in/allenbphilip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://www.instagram.com/allen._.philip/"><img src="https://img.shields.io/badge/Instagram-DC125D?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "https://allen.iykk.in/"><img src="https://img.shields.io/badge/Website-1033AA?style=for-the-badge&logo=about.me&logoColor=white"></a>
+<a href = "https://github.com/allenalvin333/allenalvin333/raw/master/Resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=files&logoColor=white"></a>
 <br/><br/>
 📌 **Fun fact**: I'm an Electronics student wandering into unknown territory 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
