@@ -9,10 +9,10 @@
 <br/><br/>
 
 #  Hello ! <img src="Wave.gif" width="33px"> 
+<a href = "https://allen.iykk.in/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge"></a>
 <a href = "mailto:allenalvin333@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "https://www.linkedin.com/in/allenbphilip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://www.instagram.com/allen._.philip/"><img src="https://img.shields.io/badge/Instagram-DC125D?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "https://allen.iykk.in/"><img src="https://img.shields.io/badge/Website-1033AA?style=for-the-badge&logo=about.me&logoColor=white"></a>
 <a href = "https://github.com/allenalvin333/allenalvin333/raw/master/Resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=files&logoColor=white"></a>
 <br/><br/>
 📌 **Fun fact**: I'm an Electronics student wandering into unknown territory 
