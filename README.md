@@ -15,7 +15,7 @@
 <a href = "https://www.instagram.com/allen._.philip/"><img src="https://img.shields.io/badge/Instagram-DC125D?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "https://github.com/allenalvin333/allenalvin333/raw/master/Resume.pdf"><img src="https://img.shields.io/badge/Resume-224099?style=for-the-badge&logo=libreoffice&logoColor=white"></a>
 <br/><br/>
-📌 **Fun fact**: I'm an Electronics student wandering into unknown territory 
+📌 **Fun fact**: I'm an Electronics student turned Data Analyst
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/><br/>
 
