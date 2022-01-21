@@ -46,7 +46,7 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JS" src ="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23C122B8.svg?&style=for-the-badge&logo=GraphQL&logoColor=white"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23A122B8.svg?&style=for-the-badge&logo=GraphQL&logoColor=white"/>
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white"/>
  </p>
  <br/>
