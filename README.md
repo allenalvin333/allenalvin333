@@ -38,6 +38,14 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   
+  <img alt="React" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+  <img alt="CC" src="https://img.shields.io/badge/Adobe%20CC-%23DA1F26.svg?&style=for-the-badge&logo=Adobe-creative-cloud&logoColor=white"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img alt="Scikit" src="https://img.shields.io/badge/SKLearn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img alt="NodeRED" src="https://img.shields.io/badge/NodeRed-%238F0000.svg?&style=for-the-badge&logo=node-red&logoColor=white"/>
+  <img alt="Terminal" src="https://img.shields.io/badge/Powershell-%234D4D4D.svg?&style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
+  
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23311C87.svg?&style=for-the-badge&logo=GraphQL&logoColor=white"/>
   <img alt="LabView" src="https://img.shields.io/badge/LabView-%23FFDB00.svg?&style=for-the-badge&logo=Labview&logoColor=black"/>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -46,14 +54,6 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?&style=for-the-badge&logo=Powerbi&logoColor=black"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
-  
-  <img alt="React" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
-  <img alt="Terminal" src="https://img.shields.io/badge/Powershell-%234D4D4D.svg?&style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
-  <img alt="CC" src="https://img.shields.io/badge/Adobe%20CC-%23DA1F26.svg?&style=for-the-badge&logo=Adobe-creative-cloud&logoColor=white"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img alt="Scikit" src="https://img.shields.io/badge/SKLearn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img alt="NodeRED" src="https://img.shields.io/badge/NodeRed-%238F0000.svg?&style=for-the-badge&logo=node-red&logoColor=white"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white"/>
  </p>
