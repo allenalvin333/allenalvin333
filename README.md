@@ -60,12 +60,14 @@
  <br/>
 
 <!--
+
 | | | | | 
 | :----: | :----: | :----: | :----: | 
 | <img src="Badges/1.webp" alt="gcp" height="36" width=auto/> | <img src="Badges/2.webp" alt="aws" height="36" width=auto/> | <img src="Badges/3.webp" alt="ni" height="36" width=auto/> | <img src="Badges/4.webp" alt="c#" height="36" width=auto/> |
 | <img src="Badges/5.webp" alt="html5" height="36" width=auto/>  | <img src="Badges/6.webp" alt="css3" height="36" width=auto/>  | <img src="Badges/7.webp" alt="bs4" height="36" width=auto/> | <img src="Badges/8.webp" alt="git" height="36" width=auto/>  |
 | <img src="Badges/9.webp" alt="py" height="36" width=auto/>  | <img src="Badges/10.webp" alt="jupy" height="36" width=auto/> | <img src="Badges/11.webp" alt="tf" height="36" width=auto/>  | <img src="Badges/12.webp" alt="pyt" height="36" width=auto/> |
 | <img src="Badges/13.webp" alt="matlab" height="36" width=auto/>  | <img src="Badges/14.webp" alt="docker" height="36" width=auto/> | <img src="Badges/15.webp" alt="c" height="36" width=auto/> | <img src="Badges/16.webp" alt="c++" height="36" width=auto/> | 
+
 -->
 
 # 📊 Stats  
