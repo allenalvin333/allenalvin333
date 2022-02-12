@@ -77,12 +77,10 @@
     <br/>
     <div><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=react&hide_border=true&background=0d1117"/></div>
 </details>
-
 <details>
   <summary><b>🎫 GitHub Contributions</b></summary>
     <br/>
     <div><img src="https://activity-graph.herokuapp.com/graph?username=allenalvin333&custom_title=Contribution%20Graph&theme=react-dark&area=true&hide_border=true" width="100%"/></div>
 </details>
-
 
 <!-- Border Colour: 61dafb, Background Colour: 0d1117  -->
