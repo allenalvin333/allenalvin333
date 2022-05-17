@@ -38,7 +38,7 @@
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   
-  <img alt="React" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white"/>
   <img alt="CC" src="https://img.shields.io/badge/Adobe%20CC-%23DA1F26.svg?&style=for-the-badge&logo=Adobe-creative-cloud&logoColor=white"/>
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   <img alt="Scikit" src="https://img.shields.io/badge/SKLearn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -55,7 +55,8 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23311C87.svg?&style=for-the-badge&logo=GraphQL&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
   
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+  
  </p>
  <br/>
 
