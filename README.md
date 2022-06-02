@@ -8,7 +8,7 @@
 [<img alt='Resources' src="Logo/Resources.png" width="80">](https://github.com/abphilip-resources/)
 <br/><br/>
 
-#  Hello ! <img src="Wave.gif" width="33px"> 
+#  Hello ! <img src="Wave.gif" width="4%"> 
 <a href = "https://allen.iykk.in/"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Google-domains&logoColor=white"></a>
 <a href = "mailto:allenbphilip@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "https://www.linkedin.com/in/allenbphilip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
