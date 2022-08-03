@@ -1,3 +1,4 @@
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 #  Hello ! <img src="Wave.gif" width="4%"> 
 <a href = "https://allen.iykk.in/"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Google-domains&logoColor=white"></a>
 <a href = "mailto:allenbphilip@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -6,8 +7,8 @@
 <a href = "https://github.com/allenalvin333/allenalvin333/raw/master/Resume.pdf"><img src="https://img.shields.io/badge/Resume-3250AA?style=for-the-badge&logo=libreoffice&logoColor=white"></a>
 <br/><br/>
 📌 **Fun fact**: I'm an Electronics student turned Data Analyst
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br/><br/>
+
+---
 
 **Grouped Repositories**
 
@@ -98,6 +99,4 @@
     <div><img src="https://activity-graph.herokuapp.com/graph?username=allenalvin333&custom_title=Contribution%20Graph&theme=react-dark&area=true&hide_border=true" width="100%"/></div>
 </details>
 
-<!-- 
-  Border Colour: 61dafb, Background Colour: 0d1117 
--->
+<!-- Border Colour: 61dafb, Background Colour: 0d1117 -->
