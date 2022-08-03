@@ -9,7 +9,8 @@
 
 ---
 
-<br/><br/>
+<br/>
+
 
 #  Hello ! <img src="Wave.gif" width="4%"> 
 <a href = "https://allen.iykk.in/"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Google-domains&logoColor=white"></a>
@@ -20,7 +21,8 @@
 <br/><br/>
 📌 **Fun fact**: I'm an Electronics student turned Data Analyst
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br/> <br/>
+<br/><br/>
+
 
 # 🗃️ Stack
 
@@ -35,20 +37,18 @@
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
   <img alt="LabView" src="https://img.shields.io/badge/LabView-%23FFDB00.svg?&style=for-the-badge&logo=Labview&logoColor=black"/>
 </p>
- 
+
 ---
 
-**Languages**
+**Platforms**
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JS" src ="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img alt="Terminal" src="https://img.shields.io/badge/Powershell-%234D4D4D.svg?&style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
-  <img alt="BASH" src="https://img.shields.io/badge/BASH-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>   
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white"/>  
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img alt="NodeRED" src="https://img.shields.io/badge/NodeRed-%238F0000.svg?&style=for-the-badge&logo=node-red&logoColor=white"/>
+  <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?&style=for-the-badge&logo=Powerbi&logoColor=black"/>
 </p>
 
 ---
@@ -67,20 +67,23 @@
 
 ---
 
-**Platforms**
+**Languages**
 <p>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white"/>  
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img alt="NodeRED" src="https://img.shields.io/badge/NodeRed-%238F0000.svg?&style=for-the-badge&logo=node-red&logoColor=white"/>
-  <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?&style=for-the-badge&logo=Powerbi&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JS" src ="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img alt="Terminal" src="https://img.shields.io/badge/Powershell-%234D4D4D.svg?&style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
+  <img alt="BASH" src="https://img.shields.io/badge/BASH-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>   
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
 
 <br/>
+
 
 # 📊 Stats
 
