@@ -7,6 +7,7 @@
 <br/><br/>
 📌 **Fun fact**: I'm an Electronics student turned Data Analyst
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br/>
 
 **Grouped Repositories**
 
@@ -16,8 +17,6 @@
 [<img alt='School' src="Logo/School.png" width="80">](https://github.com/abphilip-school/) 
 [<img alt='Work' src="Logo/Work.png" width="80">](https://github.com/abphilip-work/) 
 [<img alt='Resources' src="Logo/Resources.png" width="80">](https://github.com/abphilip-resources/)
-
----
 
 <br/>
 
