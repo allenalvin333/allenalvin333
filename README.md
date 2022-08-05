@@ -1,6 +1,3 @@
-
----
-
 #  Hello ! <img src="Wave.gif" width="4%"> 
 <a href = "https://allen.iykk.in/"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Google-domains&logoColor=white"></a>
 <a href = "mailto:allenbphilip@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge&logo=gmail&logoColor=white"></a>
