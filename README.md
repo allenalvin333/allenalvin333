@@ -22,7 +22,6 @@
 
 <br/>
 
-
 # 🗃️ Stack
 
 **Tools**
@@ -83,7 +82,6 @@
 
 <br/>
 
-
 # 📊 Stats
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=12171f&style=flat" alt="allenalvin333"/></p>
@@ -97,5 +95,6 @@
     <br/>
     <div><img src="https://activity-graph.herokuapp.com/graph?username=allenalvin333&custom_title=Contribution%20Graph&theme=react-dark&area=true&hide_border=true" width="100%"/></div>
 </details>
+
 
 <!-- Border Colour: 61dafb, Background Colour: 0d1117 -->
