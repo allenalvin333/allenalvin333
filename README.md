@@ -5,9 +5,9 @@
 <a href = "https://www.linkedin.com/in/allenbphilip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://github.com/allenalvin333/allenalvin333/raw/master/Resume.pdf"><img src="https://img.shields.io/badge/Resume-3250AA?style=for-the-badge&logo=libreoffice&logoColor=white"></a>
 
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-**Grouped Repositories**
+## Directories 📁
 
 [<img alt='VIT' src="Logo/VIT.png" width="80">](https://github.com/abphilip-vit/) 
 [<img alt='Coursera' src="Logo/Coursera.png" width="80">](https://github.com/abphilip-coursera/) 
@@ -16,9 +16,9 @@
 [<img alt='Work' src="Logo/Work.png" width="80">](https://github.com/abphilip-work/) 
 [<img alt='Resources' src="Logo/Resources.png" width="80">](https://github.com/abphilip-resources/)
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
-# 🗃️ Stack
+## Stack 🗃️
 
 <details>
   <summary><b>Tools</b></summary>
@@ -82,7 +82,7 @@
 
 ---
 
-# 📊 Stats
+## Stats 📊
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=12171f&style=flat" alt="allenalvin333"/></p>
 <div><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=react&hide_border=true&background=0d1117"/></div>
