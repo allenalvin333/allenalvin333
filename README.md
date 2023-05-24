@@ -34,7 +34,6 @@
     <img alt="LabView" src="https://img.shields.io/badge/LabView-%23FFDB00.svg?&style=for-the-badge&logo=Labview&logoColor=black"/>
   </p>
 </details>
-
 <details>
   <summary><b>Platforms</b></summary>
   <br/>
@@ -86,6 +85,5 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=12171f&style=flat" alt="allenalvin333"/></p>
 <div><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=react&hide_border=true&background=0d1117"/></div>
-
 
 <!-- Border Colour: 61dafb, Background Colour: 0d1117 -->
