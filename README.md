@@ -47,7 +47,6 @@
     <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?&style=for-the-badge&logo=Powerbi&logoColor=black"/>
   </p>
 </details>
-
 <details>
   <summary><b>Frameworks</b></summary>
   <br/>
@@ -62,7 +61,6 @@
     <img alt="Scikit" src="https://img.shields.io/badge/ScikitLearn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   </p>
 </details>
-
 <details>
   <summary><b>Languages</b></summary>
   <br/>
