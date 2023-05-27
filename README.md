@@ -8,7 +8,6 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 📁 Directories
-
 [<img alt='VIT' src="Logo/VIT.png" width="80">](https://github.com/abphilip-vit/) 
 [<img alt='Coursera' src="Logo/Coursera.png" width="80">](https://github.com/abphilip-coursera/) 
 [<img alt='Codes' src="Logo/Codes.png" width="80">](https://github.com/abphilip-codes/) 
@@ -19,7 +18,6 @@
 ---
 
 ## 🗃️ Stack
-
 <details>
   <summary><b>Tools</b></summary>
   <br/>
@@ -80,7 +78,6 @@
 ---
 
 ## 📊 Stats
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=12171f&style=flat" alt="allenalvin333"/></p>
 <div><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=react&hide_border=true&background=0d1117"/></div>
 
