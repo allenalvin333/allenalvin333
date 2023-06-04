@@ -18,8 +18,7 @@
 
 ## 🗃️ Stack
 <details>
-  <summary><b>Tools</b></summary>
-  <br/>
+  <summary><b>Tools</b></summary><br/>
   <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
@@ -32,8 +31,7 @@
   </p>
 </details>
 <details>
-  <summary><b>Platforms</b></summary>
-  <br/>
+  <summary><b>Platforms</b></summary><br/>
   <p>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
     <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
@@ -45,8 +43,7 @@
   </p>
 </details>
 <details>
-  <summary><b>Frameworks</b></summary>
-  <br/>
+  <summary><b>Frameworks</b></summary><br/>
   <p>
     <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  
     <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
@@ -59,8 +56,7 @@
   </p>
 </details>
 <details>
-  <summary><b>Languages</b></summary>
-  <br/>
+  <summary><b>Languages</b></summary><br/>
   <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
