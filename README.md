@@ -4,7 +4,6 @@
 <a href = "https://allen.iykk.in/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Google-domains&logoColor=white"></a>
 <a href = "mailto:allenbphilip@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "https://www.linkedin.com/in/allenbphilip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 📁 Directories
 [<img alt='VIT' src="Logo/VIT.png" width="80">](https://github.com/abphilip-vit/) 
@@ -14,7 +13,7 @@
 [<img alt='Work' src="Logo/Work.png" width="80">](https://github.com/abphilip-work/) 
 [<img alt='Resources' src="Logo/Resources.png" width="80">](https://github.com/abphilip-resources/)
 
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🗃️ Stack
 <details>
@@ -69,8 +68,6 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   </p>
 </details>
-
----
 
 ## 📊 Stats
 <p align="left"><img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=12171f&style=flat" alt="allenalvin333"/></p>
