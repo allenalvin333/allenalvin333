@@ -6,12 +6,12 @@
 <a href = "https://allen.iykk.in/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Google-domains&logoColor=white"></a>
 
 ## 📁 Directories
-[<img alt='VIT' src="Logo/VIT.png" width="80">](https://github.com/abphilip-vit/) 
-[<img alt='Coursera' src="Logo/Coursera.png" width="80">](https://github.com/abphilip-coursera/) 
-[<img alt='Codes' src="Logo/Codes.png" width="80">](https://github.com/abphilip-codes/) 
-[<img alt='School' src="Logo/School.png" width="80">](https://github.com/abphilip-school/) 
-[<img alt='Work' src="Logo/Work.png" width="80">](https://github.com/abphilip-work/) 
-[<img alt='Resources' src="Logo/Resources.png" width="80">](https://github.com/abphilip-resources/)
+[<img alt='VIT' src="/Logo/VIT.png" width="80">](https://github.com/abphilip-vit/) 
+[<img alt='Coursera' src="/Logo/Coursera.png" width="80">](https://github.com/abphilip-coursera/) 
+[<img alt='Codes' src="/Logo/Codes.png" width="80">](https://github.com/abphilip-codes/) 
+[<img alt='School' src="/Logo/School.png" width="80">](https://github.com/abphilip-school/) 
+[<img alt='Work' src="/Logo/Work.png" width="80">](https://github.com/abphilip-work/) 
+[<img alt='Resources' src="/Logo/Resources.png" width="80">](https://github.com/abphilip-resources/)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
