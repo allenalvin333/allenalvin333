@@ -1,4 +1,4 @@
-![head](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20There!&customColorList=12&animation=fadeIn)
+![head](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&customColorList=12&animation=fadeIn)
 
 <a href = "https://www.linkedin.com/in/allenbphilip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "mailto:allenbphilip@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge&logo=gmail&logoColor=white"></a>
