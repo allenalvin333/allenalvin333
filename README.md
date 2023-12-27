@@ -43,8 +43,7 @@
 </details>
 <details>
   <summary><b>Frameworks</b></summary><br/>
-  <p>
-    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  
+  <p>  
     <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23371651.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
