@@ -43,9 +43,10 @@
 </details>
 <details>
   <summary><b>Frameworks</b></summary><br/>
-  <p>  
-    <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+  <p>
+    <img alt="PySpark" src="https://img.shields.io/badge/Spark-%23E25A1C.svg?&style=for-the-badge&logo=apachespark&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23371651.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img alt="TF" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -64,7 +65,7 @@
     <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
     <img alt="Terminal" src="https://img.shields.io/badge/Powershell-%234D4D4D.svg?&style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
     <img alt="BASH" src="https://img.shields.io/badge/BASH-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>   
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   </p>
 </details>
 
