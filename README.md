@@ -21,7 +21,7 @@
   <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
-    <img alt="CC" src="https://img.shields.io/badge/Adobe%20CC-%23DA1F26.svg?&style=for-the-badge&logo=Adobe-creative-cloud&logoColor=white"/>
+    <img alt="Adobe CC" src="https://img.shields.io/badge/Adobe%20CC-%23DA1F26.svg?&style=for-the-badge&logo=Adobe-creative-cloud&logoColor=white"/>
     <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
