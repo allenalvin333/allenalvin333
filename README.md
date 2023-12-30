@@ -16,6 +16,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🗃️ Tech Stack
+
 <details>
   <summary><b>Tools</b></summary><br/>
   <p>
@@ -29,6 +30,7 @@
     <img alt="LabView" src="https://img.shields.io/badge/LabView-%23FFDB00.svg?&style=for-the-badge&logo=Labview&logoColor=black"/>
   </p>
 </details>
+
 <details>
   <summary><b>Platforms</b></summary><br/>
   <p>
@@ -41,6 +43,7 @@
     <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?&style=for-the-badge&logo=Powerbi&logoColor=black"/>
   </p>
 </details>
+
 <details>
   <summary><b>Frameworks</b></summary><br/>
   <p>
@@ -54,6 +57,7 @@
     <img alt="Scikit" src="https://img.shields.io/badge/ScikitLearn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   </p>
 </details>
+
 <details>
   <summary><b>Languages</b></summary><br/>
   <p>
