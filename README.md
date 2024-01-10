@@ -28,7 +28,7 @@
     <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
     <img alt="LabView" src="https://img.shields.io/badge/LabView-%23FFDB00.svg?&style=for-the-badge&logo=Labview&logoColor=black"/>
   </p>
-</detail
+</details>
 <details>
   <summary><b>Platforms</b></summary><br/>
   <p>
