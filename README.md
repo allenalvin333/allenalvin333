@@ -13,7 +13,7 @@
 [<img alt='Work' src="/Logo/Work.png" width="80">](https://github.com/abphilip-work/) 
 [<img alt='Resources' src="/Logo/Resources.png" width="80">](https://github.com/abphilip-resources/)
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line_break_gif"></a>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line_break"></a>
 
 ## 🗃️ Tech Stack
 <details>
@@ -72,5 +72,5 @@
 ---
 
 ## 📊 My Stats
-<img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=12171f&style=flat" alt="profile_page_views"/>
+<img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=12171f&style=flat" alt="profile_views"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=react&hide_border=true&background=0d1117/" alt="github_streaks"/>
