@@ -13,7 +13,7 @@
 [<img alt='Work' src="/Logo/Work.png" width="80">](https://github.com/abphilip-work/) 
 [<img alt='Resources' src="/Logo/Resources.png" width="80">](https://github.com/abphilip-resources/)
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line_break"></a>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="gif_break"></a>
 
 ## 🗃️ Tech Stack
 <details>
