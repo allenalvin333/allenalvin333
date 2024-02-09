@@ -1,4 +1,4 @@
-![head](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&customColorList=12&animation=fadeIn)
+![head](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20There!&customColorList=12&animation=fadeIn)
 
 <a href="https://www.linkedin.com/in/allenbphilip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/allenalvin333/allenalvin333/raw/master/Resume.pdf"><img src="https://img.shields.io/badge/Resume-3E41A0?style=for-the-badge&logo=libreoffice&logoColor=white"></a>
@@ -73,4 +73,4 @@
 
 ## 📊 My Stats
 <img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=12171f&style=flat" alt="profile_views"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=react&hide_border=true&background=0d1117/" alt="github_streak"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=react&hide_border=true&backgro
