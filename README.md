@@ -73,4 +73,4 @@
 
 ## 📊 My Stats
 <img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=12171f&style=flat" alt="profile_views"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=react&hide_border=true&background=0d1117/" alt="github_streak"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=react&hide_border=true&background=0f1218/" alt="github_streak"/>
