@@ -5,15 +5,14 @@
 <a href="mailto:allenbphilip@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://abphilip.com/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Google-domains&logoColor=white"></a>
 
-## 📁 Directories
-[<img alt='VIT' src="/Assets/Logo/v1/VIT.png" width="80">](https://github.com/abphilip-vit/)
-[<img alt='Coursera' src="/Assets/Logo/v1/Coursera.png" width="80">](https://github.com/abphilip-coursera/)
-[<img alt='Codes' src="/Assets/Logo/v1/Codes.png" width="80">](https://github.com/abphilip-codes/)
-[<img alt='School' src="/Assets/Logo/v1/School.png" width="80">](https://github.com/abphilip-school/)
-[<img alt='Work' src="/Assets/Logo/v1/Work.png" width="80">](https://github.com/abphilip-work/)
-[<img alt='Resources' src="/Assets/Logo/v1/Resources.png" width="80">](https://github.com/abphilip-resources/)
-
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line_break"></a>
+
+## 📁 Directories
+[<img alt='Academic' src="/Assets/Logo/v2/PNG/A.png" width="90">](https://github.com/abphilip-academic/)
+[<img alt='Work' src="/Assets/Logo/v2/PNG/W.png" width="90">](https://github.com/abphilip-work/)
+[<img alt='Resources' src="/Assets/Logo/v2/PNG/R.png" width="90">](https://github.com/abphilip-resources/)
+
+---
 
 ## 🗃️ Tech Stack
 <details>
