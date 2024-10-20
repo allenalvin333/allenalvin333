@@ -8,9 +8,9 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line_break"></a>
 
 ## 📁 Directories
-[<img alt='Academic' src="/Assets/Logo/v3/README/BG/AN.png" width="90">](https://github.com/abphilip-academic/)
-[<img alt='Work' src="/Assets/Logo/v3/README/BG/WN.png" width="90">](https://github.com/abphilip-work/)
-[<img alt='Resources' src="/Assets/Logo/v3/README/BG/RN.png" width="90">](https://github.com/abphilip-resources/)
+[<img alt='Academic' src="/Assets/Logo/v3/README/BG/AN.png" width="100">](https://github.com/abphilip-academics/)
+[<img alt='Work' src="/Assets/Logo/v3/README/BG/WN.png" width="100">](https://github.com/abphilip-work/)
+[<img alt='Resources' src="/Assets/Logo/v3/README/BG/RN.png" width="100">](https://github.com/abphilip-resources/)
 
 ---
 
