@@ -1,16 +1,16 @@
 ![head](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&customColorList=12&animation=fadeIn)
 
 <a href="https://www.linkedin.com/in/allenbphilip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/allenalvin333/allenalvin333/raw/master/Assets/Resume.pdf"><img src="https://img.shields.io/badge/Resume-3E41A0?style=for-the-badge&logo=libreoffice&logoColor=white"></a>
 <a href="mailto:allenbphilip@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://abphilip.com/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Google-domains&logoColor=white"></a>
+<a href="https://github.com/allenalvin333/allenalvin333/blob/master/Assets/Resume.pdf"><img src="https://img.shields.io/badge/Resume-3E41A0?style=for-the-badge&logo=libreoffice&logoColor=white"></a>
+<a href="https://abphilip.com/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=googlegemini&logoColor=white"></a>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line_break"></a>
 
 ## 📁 Directories
-[<img alt='Academic' src="/Assets/Logo/v3/README/BG/AN.png" width="100">](https://github.com/abphilip-academics/)
-[<img alt='Work' src="/Assets/Logo/v3/README/BG/WN.png" width="100">](https://github.com/abphilip-work/)
-[<img alt='Resources' src="/Assets/Logo/v3/README/BG/RN.png" width="100">](https://github.com/abphilip-resources/)
+[<img alt='Academics' src="/Assets/Logo/v2/README/Academics.png" width="100">](https://github.com/abphilip-academics/)
+[<img alt='Work' src="/Assets/Logo/v2/README/Work.png" width="100">](https://github.com/abphilip-work/)
+[<img alt='Resources' src="/Assets/Logo/v2/README/Resources.png" width="100">](https://github.com/abphilip-resources/)
 
 ---
 
@@ -22,7 +22,7 @@
     <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
     <img alt="Adobe CC" src="https://img.shields.io/badge/Adobe%20CC-%23DA1F26.svg?&style=for-the-badge&logo=Adobe-creative-cloud&logoColor=white"/>
     <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=vscodium&logoColor=white"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
     <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
     <img alt="LabView" src="https://img.shields.io/badge/LabView-%23FFDB00.svg?&style=for-the-badge&logo=Labview&logoColor=black"/>
@@ -34,10 +34,9 @@
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
     <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
     <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white"/>  
-    <img alt="AWS" src="https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
     <img alt="NodeRED" src="https://img.shields.io/badge/NodeRed-%238F0000.svg?&style=for-the-badge&logo=node-red&logoColor=white"/>
-    <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?&style=for-the-badge&logo=Powerbi&logoColor=black"/>
+    <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?&style=for-the-badge&logo=googlebigquery&logoColor=black"/>
   </p>
 </details>
 <details>
@@ -62,7 +61,6 @@
     <img alt="JS" src ="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-    <img alt="Shell" src="https://img.shields.io/badge/Powershell-%234D4D4D.svg?&style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
     <img alt="BASH" src="https://img.shields.io/badge/BASH-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>   
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   </p>
