@@ -1,9 +1,9 @@
 ![head](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&customColorList=12&animation=fadeIn)
 
-<a href="https://www.linkedin.com/in/allenbphilip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/allenalvin333/allenalvin333/raw/master/Assets/Resume.pdf"><img src="https://img.shields.io/badge/Resume-3E41A0?style=for-the-badge&logo=libreoffice&logoColor=white"></a>
-<a href="mailto:allenbphilip@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://abphilip.com/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=googlegemini&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/allenbphilip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a>
+<a href="https://github.com/allenalvin333/allenalvin333/raw/master/Assets/Resume.pdf"><img src="https://img.shields.io/badge/Resume-3E41A0?style=for-the-badge"></a>
+<a href="mailto:allenbphilip@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge"></a>
+<a href="https://abphilip.com/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge"></a>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line_break"></a>
 
@@ -20,9 +20,8 @@
   <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
-    <img alt="Adobe CC" src="https://img.shields.io/badge/Adobe%20CC-%23DA1F26.svg?&style=for-the-badge&logo=Adobe-creative-cloud&logoColor=white"/>
+    <img alt="Adobe CC" src="https://img.shields.io/badge/Adobe%20CC-%23DA1F26.svg?&style=for-the-badge&logo=icloud&logoColor=white"/>
     <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=vscodium&logoColor=white"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
     <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
     <img alt="LabView" src="https://img.shields.io/badge/LabView-%23FFDB00.svg?&style=for-the-badge&logo=Labview&logoColor=black"/>
